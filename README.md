@@ -4,7 +4,7 @@ Analisis menggunakan Python di Google Colab untuk membersihkan catatan transaksi
 
 ![Pratinjau dashboard](Batik%20Lestari%20Q3%20Sales%20Dashboard.png)
 
-[Lihat laporan dashboard (PDF, bahasa Indonesia)](Batik%20Lestari.pdf) | [Buka notebook analisis (bahasa Indonesia)](Batik_Lestari.ipynb)
+[Lihat laporan dashboard](Batik%20Lestari.pdf) | [Buka notebook analisis](Batik_Lestari.ipynb)
 
 
 ## Problem
